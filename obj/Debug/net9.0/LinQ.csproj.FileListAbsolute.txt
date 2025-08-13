@@ -1,0 +1,14 @@
+/Users/masaemwas/Desktop/PracticeC#/LinQ/bin/Debug/net9.0/LinQ
+/Users/masaemwas/Desktop/PracticeC#/LinQ/bin/Debug/net9.0/LinQ.deps.json
+/Users/masaemwas/Desktop/PracticeC#/LinQ/bin/Debug/net9.0/LinQ.runtimeconfig.json
+/Users/masaemwas/Desktop/PracticeC#/LinQ/bin/Debug/net9.0/LinQ.dll
+/Users/masaemwas/Desktop/PracticeC#/LinQ/bin/Debug/net9.0/LinQ.pdb
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.AssemblyInfoInputs.cache
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.AssemblyInfo.cs
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.csproj.CoreCompileInputs.cache
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.dll
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/refint/LinQ.dll
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.pdb
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.genruntimeconfig.cache
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/ref/LinQ.dll
