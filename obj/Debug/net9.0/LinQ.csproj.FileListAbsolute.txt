@@ -12,3 +12,4 @@
 /Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.pdb
 /Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.genruntimeconfig.cache
 /Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/ref/LinQ.dll
+/Users/masaemwas/Desktop/PracticeC#/LinQ/obj/Debug/net9.0/LinQ.sourcelink.json

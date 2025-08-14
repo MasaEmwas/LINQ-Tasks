@@ -6,11 +6,14 @@ namespace problemSolving
         static void Main(string[] args)
         {
             //Run LINQ Simple Tasks
-            Level1Examples.Run();
-            Console.WriteLine("\n\n");
-            Level2Examples.Run();
-            Console.WriteLine("\n\n");
+            //Level1Examples.Run();
+            //Level2Examples.Run();
             
+            Set3Question1.Run();
+            Set3Question2.Run();
+            Set3Question3.Run();
+            Set3Question4.Run();
+
         }
     }
 }
